@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm test",
-    "start": "nodemon -i ./public/services -i ./templates/services ./server/index.js"
+    "start": "nodemon -i ./public/services -i ./templates/services ./server.js"
   },
   "keywords": [
     "front-end",
